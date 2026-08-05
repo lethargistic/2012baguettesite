@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="512a7f31-0434-4853-b73d-7758d9f3f7e7" name="Changes" comment="init: init">
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.npmrc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.vscode/extensions.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pnpm-lock.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pnpm-workspace.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lib/assets/baguette.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lib/assets/favicon.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lib/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/routes/+layout.svelte" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/routes/+page.svelte" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/robots.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vite.config.ts" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="EmbeddingIndexingInfo">
+    <option name="cachedIndexableFilesCount" value="7" />
+    <option name="fileBasedEmbeddingIndicesEnabled" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "lethargistic"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/lethargistic/2012baguettesite.git",
+    "accountId": "48f3f4a6-2bc4-4a4f-8185-58151dcb9583"
+  }
+}]]></component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.0012198262793532" />
+      <entry key="MS500" value="1.329188157085857" />
+      <entry key="S2" value="2.725675053948988" />
+      <entry key="S5" value="4.690944844697522" />
+      <entry key="S10" value="7.285378893565251" />
+      <entry key="S30" value="12.394239648305621" />
+      <entry key="S60" value="14.89810043304888" />
+      <entry key="M2" value="17.52131553095892" />
+      <entry key="M5" value="28.03953925278693" />
+      <entry key="M10" value="54.061604206752044" />
+      <entry key="M15" value="78.6528270870617" />
+      <entry key="M30" value="126.02091176628655" />
+      <entry key="H1" value="165.3681700254816" />
+      <entry key="H2" value="191.074191062082" />
+      <entry key="H4" value="205.81755121092235" />
+      <entry key="D1" value="219.19669672244987" />
+      <entry key="W1" value="221.59684015364627" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="5.6201E-319" />
+      <entry key="S2" value="3.461838829702388E-80" />
+      <entry key="S5" value="3.518366014242071E-32" />
+      <entry key="S10" value="4.662002530251972E-16" />
+      <entry key="S30" value="3.0019466863349644E-5" />
+      <entry key="S60" value="0.0158219199928413" />
+      <entry key="M2" value="0.43379626175412517" />
+      <entry key="M5" value="5.463656388298293" />
+      <entry key="M10" value="18.120430061062663" />
+      <entry key="M15" value="29.083314043711724" />
+      <entry key="M30" value="48.67685621763567" />
+      <entry key="H1" value="63.98682268623404" />
+      <entry key="H2" value="73.65300097644125" />
+      <entry key="H4" value="79.09781889576115" />
+      <entry key="D1" value="83.98282329971332" />
+      <entry key="W1" value="84.8538456938059" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="0.02720736518204862" />
+      <entry key="MS500" value="0.6049918465070235" />
+      <entry key="S2" value="2.2074419497254474" />
+      <entry key="S5" value="4.330268299318003" />
+      <entry key="S10" value="7.014678933389207" />
+      <entry key="S30" value="12.242177850791043" />
+      <entry key="S60" value="14.821642074373798" />
+      <entry key="M2" value="17.897006687388576" />
+      <entry key="M5" value="33.451416848021786" />
+      <entry key="M10" value="72.12233559692828" />
+      <entry key="M15" value="107.676830418405" />
+      <entry key="M30" value="174.65062293217002" />
+      <entry key="H1" value="229.32456519590548" />
+      <entry key="H2" value="264.70980999172815" />
+      <entry key="H4" value="284.90606773622466" />
+      <entry key="D1" value="303.1778781478792" />
+      <entry key="W1" value="306.4504489629256" />
+    </decayedShown>
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 4,
+  "fromUser": false
+}]]></component>
+  <component name="ProjectId" id="3HUmAjjh7YB0ycybuJcsndb0GxC" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.MCP Project settings loaded": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "javascript.preferred.runtime.type.id": "node",
+    "last_opened_file_path": "D:/Docs/webstormproj/2012baguettesite/src/lib/assets",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_interpreter_path": "node",
+    "nodejs_package_manager_path": "C:\\Users\\Maksiks\\AppData\\Local\\Microsoft\\WinGet\\Links\\pnpm.exe",
+    "settings.editor.selected.configurable": "settings.javascript.runtime",
+    "ts.external.directory.path": "D:\\Docs\\webstormproj\\2012baguettesite\\node_modules\\typescript\\lib",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Docs\webstormproj\2012baguettesite\src\lib\assets" />
+      <recent name="D:\Docs\webstormproj\2012baguettesite\static" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-31caf2ab9e3c-JavaScript-WS-261.26222.58" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="512a7f31-0434-4853-b73d-7758d9f3f7e7" name="Changes" comment="" />
+      <created>1785787412822</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1785787412822</updated>
+      <workItem from="1785930880728" duration="2753000" />
+    </task>
+    <task id="LOCAL-00001" summary="init: init">
+      <option name="closed" value="true" />
+      <created>1785932146471</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1785932146471</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="init: init" />
+    <option name="LAST_COMMIT_MESSAGE" value="init: init" />
+  </component>
+</project>
