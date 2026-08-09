@@ -3,11 +3,19 @@
     import skel from '$lib/assets/skeleton-trumpet.gif'
     import baguette from '$lib/assets/baguette.png'
     import {Tween} from "svelte/motion";
+    import { m } from '$lib/paraglide/messages';
+    import {getLocale, setLocale} from "$lib/paraglide/runtime";
 
     let baguettePos = new Tween(-200);
 
     let click = $state(false);
-    let chinese = true;
+
+    let lang = $state(getLocale());
+    $effect(() => {
+        setLocale(lang);
+    })
+
+    // test
 </script>
 
 <main>
@@ -19,14 +27,20 @@
     <img class="skel" src={skel} alt="skeleton doot doot">
     <img class="baguette" style={`top: ${baguettePos.current}px`} src={baguette} alt="baguette">
 
+    <div class="language-select">
+        <select bind:value={lang}>
+            <option value="en">English</option>
+            <option value="ps">Pirate speak</option>
+            <option value="zh">Chinese</option>
+        </select>
+    </div>
+
     {#if click}
         <div class="baguette-button-cont">
             <button onclick={() => baguettePos.target = 500}>
-                {#if chinese}
-                    法棍
-                {:else}
-                    baguette
-                {/if}
+                {#key lang}
+                {m.left_side_bread_button_3()}
+                    {/key}
             </button>
         </div>
     {/if}

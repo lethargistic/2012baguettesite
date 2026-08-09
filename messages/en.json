@@ -1,0 +1,8 @@
+{
+	"$schema": "https://inlang.com/schema/inlang-message-format",
+	"left_side_bread_button_1": "<-- try not to name things like this",
+	"left_side_bread_button_2": "no",
+	"left_side_bread_button_3": "baguette",
+	"cute_bread": "ok",
+	"other_bread": "bread"
+}
